@@ -50,7 +50,7 @@ W Sheet1 umieść poniższą formułę (zakresy dostosuj do swojej tabeli):
 ## English Version
 
 ### Overview
-This Excel workbook automates the daily reporting of offers and analyzes the reasons for no offer. The VBA macro `ZamknijDzienIRozlicz` transfers data from a form in Sheet1 to a database in Sheet2 and resets the form while maintaining a fixed structure of 80 rows with sequential numbering. Additionally, a live formula in Sheet1 calculates the current offer percentage.
+This Excel workbook automates the daily reports of offers and analyzes the reasons for no offer. The VBA macro `ZamknijDzienIRozlicz` transfers data from a form in Sheet1 to a database in Sheet2 and resets the form while maintaining a fixed structure of 80 rows with sequential numbering. Additionally, a live formula in Sheet1 calculates the current offer percentage.
 
 ### Worksheet Structure
 - **Sheet1 (Form):**
